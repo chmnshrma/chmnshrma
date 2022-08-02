@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @chmnshrma
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Science and Analytics
 - 🌱 I’m currently pursuing Electrical Engineering from DTU
 - 📫 reach out to me at chmnshrma21@gmail.com
 
