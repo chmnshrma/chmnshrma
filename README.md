@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chmnshrma
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently pursuing Electrical Engineering from DTU
-- 📫 reach out to me at chmnshrma21@gmail.com
+- 👀 I’m currently an Assistant Manager at Maruti Suzuki India Ltd.
+- 🌱 I have pursued Electrical Engineering from DTU
+- 📫 reach out to me at chmnshrma11@gmail.com
 
 <!---
 chmnshrma/chmnshrma is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
