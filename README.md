@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chmnshrma
-- 👀 I’m currently an Assistant Manager at Maruti Suzuki India Ltd.
-- 🌱 I have pursued Electrical Engineering from DTU
+- 👀 I’m currently Working as an Assistant Manager at Maruti Suzuki India Ltd.
+- 🌱 I am an Electrical Engineering Graduate from DTU
 - 📫 reach out to me at chmnshrma11@gmail.com
 
 <!---
